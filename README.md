@@ -1,4 +1,4 @@
-Huffmann Coding : Implemented In Java
+# Huffmann Coding : Implemented In Java
 
 Efficiency Around 50%-60%.
 
