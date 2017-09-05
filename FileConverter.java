@@ -26,7 +26,7 @@ public class FileConverter {
 		FileConverter FC = new FileConverter();
 
 		try {
-			String sentence = FC.readFile("/Users/pallavsaxena/Desktop/text.txt");
+			String sentence = FC.readFile("/Users/pallavsaxena/Desktop/sampletext.txt");
 			GeneratingFrequency GF = new GeneratingFrequency();
 			HuffmannCoding HC = new HuffmannCoding();
 			HashMap<Character, Integer> wordFrequency = GF.generateFrequency(sentence);
