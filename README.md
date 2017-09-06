@@ -1,6 +1,6 @@
 # Huffmann Coding : Implemented In Java
 
-Efficiency Around 50%-60%.
+Efficiency Around 50%.
 
 Works fine for text files.
 
